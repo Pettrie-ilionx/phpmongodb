@@ -13,6 +13,7 @@ class Config {
     public static $language = array(
         'english' => 'English',
         'german' => 'German',
+        'dutch' => 'Dutch',
     );
     public static $server=array(
         'name' => "Localhost",
