@@ -7,7 +7,7 @@ $language = array(
     //Common
     'I_A' => 'Ongelige actie',
     //Login
-    'LOGIN' => 'Login',
+    'LOGIN' => 'Inloggen',
     'AUTH_FAIL' => 'Inloggen mislukt, controleer gebruikersnaam en wachtwoord.',
     'PASSWORD' => 'Wachtwoord',
     'USERNAME' => 'Gebruikersnaam',
@@ -69,7 +69,7 @@ $language = array(
     'BACK' => 'Terug',
     'E_M' => 'Export methode:',
     'Q_D_O_T_M_O' => 'Snel - toon de minimale opties',
-    'C_D_A_P_O' => 'Extra - toon alle mogelijke opties',
+    'C_D_A_P_O' => 'Uitgebreid - toon alle mogelijke opties',
     'ROWS' => 'Rijen:',
     'D_A_R' => 'Dump alle rijen',
     'D_S_R' => 'Dump somige rij(en)',
@@ -83,7 +83,7 @@ $language = array(
     'V_O_A_T' => 'Toon uitvoer als tekst',
     'D_D_O' => 'Data dump opties:',
     //application/views/Collectie/import.php
-    'I_I_T_C' => 'Importeer in collecties "%s"',
+    'I_I_T_C' => 'Importeer in Collectie "%s"',
     'JSON_FILE' => 'JSON bestand:',
     //application/views/Collectie/index.php
     'NAME' => 'Naam',
@@ -93,10 +93,10 @@ $language = array(
     'MAX' => 'Max',
     'CREATE' => 'Create',
     //application/views/Collectie/indexes.php
-    'UNIQUE' => 'Unique',
-    'FIELDS' => 'Fields',
-    'ACTION' => 'Action',
-    'LIST' => 'List',
+    'UNIQUE' => 'Uniek',
+    'FIELDS' => 'Velden',
+    'ACTION' => 'Acties',
+    'LIST' => 'Lijst',
     //Other
     'I_D' => 'Index verwijderd',
     'U_S' => 'Bijgewerkt.',
