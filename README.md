@@ -1,10 +1,10 @@
  * @package PHPmongoDB
- * @version 1.0.0
+ * @version 1.0.1
  * @link http://www.phpmongodb.org
 ==============================================================================================================
  Introduction
 ==============================================================================================================
- A Tool available for administrative work of MongoDB over Web. It is PHPmongoDB. Available here link.
+ A Tool available for administrative work of MongoDB over Web. It is PHPmongoDB. Available here http://www.phpmongodb.org.
  For any support and suggestions, You can write us to phpmongodb@gmail.com. Freely available!!! 
 
 ==============================================================================================================
@@ -28,7 +28,7 @@ Installation
 8. Start Playing with your MongoDBs!
 
 ==============================================================================================================
-Upgradation 
+Upgrade 
 ==============================================================================================================
 1.Copy all files excluding config.php to your old version directory
 2.Done!
