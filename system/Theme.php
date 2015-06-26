@@ -33,8 +33,9 @@ class Theme {
 
     public static function __setHomeUri() {
         self::$homeUri = 'http';
+        $serverProtocol = 'http://';
         if (isset($_SERVER['HTTPS']) && $_SERVER["HTTPS"] == "on") {
-            $serverProtocol .= "s";
+            $serverProtocol = "https://";
         }
         self::$homeUri .= "://";
         if ($_SERVER["SERVER_PORT"] != "80") {

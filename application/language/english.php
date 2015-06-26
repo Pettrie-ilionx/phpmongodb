@@ -108,6 +108,3 @@ $language = array(
     'A_D_I_S' => 'All data import successfully.',
     'E_U_F' => 'Error: unexpected fail',
 );
-?>
-
-

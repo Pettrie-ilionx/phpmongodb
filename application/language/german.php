@@ -108,6 +108,3 @@ $language = array(
     'A_D_I_S' => 'Alle Daten importieren erfolgreich.',
     'E_U_F' => 'Fehler: unerwartete scheitern',
 );
-?>
-
-
